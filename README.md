@@ -26,3 +26,13 @@ Göra ändringar i konton och tjänster
 Inloggning till admin:
 E-post: niklas.svensson@live.se  
 Lösenord: admin
+
+Instruktioner:
+Lägg upp hela projektet på FTP SERVER
+
+User Name
+uwlbs456467
+Password
+Qzojun33@7JvXJ
+FTP Server
+apache34.ilait.se (185.15.121.110)
